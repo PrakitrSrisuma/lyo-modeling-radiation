@@ -7,4 +7,3 @@ https://doi.org/10.1016/j.ijheatmasstransfer.2023.125023
 
 Srisuma, P., Barbastathis, G., Braatz, R.D., 2024. Mechanistic modeling and analysis of thermal radiation in conventional, microwave-assisted, and hybrid freeze drying for biopharmaceutical manufacturing. International Journal of Heat and Mass Transfer 221, 125023.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7966835.svg)](https://doi.org/10.5281/zenodo.7966835)
