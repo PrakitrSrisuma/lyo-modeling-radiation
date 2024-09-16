@@ -1,4 +1,4 @@
-# Lyo-Radiation-Modeling
+# lyo-modeling-radiation
 This repository contains software for the paper "Mechanistic modeling and analysis of thermal radiation in conventional, microwave-assisted, and hybrid freeze drying for biopharmaceutical manufacturing" published in "International Journal of Heat and Mass Transfer".
 
 # Citing
